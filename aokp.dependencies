@@ -1,0 +1,14 @@
+[
+  {
+    "remote": "github",
+    "repository": "shane87/android_kernel_samsung_trelte",
+    "target_path": "kernel/samsung/trelte",
+    "branch": "nougat"
+  },
+  {
+    "remote": "cm",
+    "repository": "android_hardware_samsung_slsi-cm_exynos5",
+    "target_path": "hardware_samsung_slsi-cm_exynos5",
+    "branch": "cm-14.1"
+  }
+]
